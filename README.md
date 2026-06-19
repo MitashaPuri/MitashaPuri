@@ -5,7 +5,7 @@
 ###  UI / Frontend Developer | React.js | JavaScript | Tailwind CSS | Typescript | Functional Flow 
 
 Passionate about building clean, modern, and user-friendly web interfaces.
-I have **1.8+ years of experience** developing enterprise dashboards, admin panels, workflow systems, and educational platforms.
+I have **2.3+ years of experience** developing enterprise dashboards, admin panels, workflow systems, and educational platforms.
 Currently growing into a **Full-Stack Developer** 
 
 ## 🚀 **Technologies & Tools**
